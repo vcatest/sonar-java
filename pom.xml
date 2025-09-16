@@ -84,6 +84,8 @@
 
     <jdk.min.version>17</jdk.min.version>
 
+    <sonar.organization>vcatest</sonar.organization>
+
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
 
     <sonar.version>25.1.0.102122</sonar.version>
